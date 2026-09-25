@@ -1,60 +1,54 @@
 Hi, I'm Gaurav Raturi 👋
 
-B.Tech CSE (AI) Student | Python | Exploring AI & Research
+B.Tech CSE (AI) Student | Python Developer | Exploring AI & Cloud Computing
 
-I'm a first-semester B.Tech CSE (AI) student interested in programming, artificial intelligence, research, and problem-solving. I enjoy learning by building things and exploring how technology can be applied to real-world problems.
+I'm a first-semester B.Tech Computer Science student specializing in Artificial Intelligence at Gurugram University. I'm interested in software development, artificial intelligence, Generative AI, and solving problems through technology.
 
-💻 Skills
+I enjoy learning by building, experimenting with new technologies, and understanding how things work under the hood. I'm currently focused on strengthening my foundations in computer science and Python while exploring AI and cloud technologies.
 
-- Python
-- RegularExpressions
-- MySQL — Basics
+💻 Technical Skills
 
+- Languages: Python, C
+- Programming: Regular Expressions, Object-Oriented Programming
+- Database: MySQL
+- Tools: Git, GitHub
+- Exploring: Generative AI, Cloud Computing
 
+🔬 Areas of Interest
 
-🔬 Interests
-
-- Artificial Intelligence
-- Generative AI
+- Artificial Intelligence & Generative AI
 - Agentic AI & Multi-Agent Systems
+- Software Engineering
+- Cloud Computing
 - Research & Experimentation
-- Software Development
+- Problem Solving
 
+📚 Learning
 
-
-📚 Currently Learning
-
-- CS50's Introduction to Programming with Python (CS50P)
-- Python & OOP through freeCodeCamp
-- Generative AI with Google Cloud — Experiential Learning 2026 Cohort
-
-
+- Python programming through CS50P
+- Python & Object-Oriented Programming through freeCodeCamp
+- Generative AI & Cloud Computing through Google Cloud's Experiential Learning 2026 Cohort
+- Adobe Generative AI Certification through NASSCOM
 
 🛠️ Projects
 
 VIDYA Tinkering Lab Management Software
 
-A Python and MySQL-based management system designed to manage equipment, inventory, issue/return records, student information, and projects for a school tinkering lab.
+A Python and MySQL-based management system designed for managing equipment, inventory, issue/return records, student information, and projects in a school tinkering laboratory.
 
-Repository will be added when the project files are available.
+Technologies: Python • MySQL
 
+«Project repository coming soon.»
 
+🎯 What I'm Working Towards
 
-🎯 Currently Working Towards
-
-Building strong foundations in computer science, Python, and AI while exploring research-oriented applications of technology. I want to gradually move from learning concepts to building practical projects and contributing to meaningful technical and research work.
-
-
+I'm building a strong foundation in computer science, software development, and artificial intelligence. My goal is to move from learning concepts to building practical projects, collaborating with other students, and contributing to technology communities.
 
 ♟️ Beyond Code
 
-- ♟️ Playing Chess
-- 🪘 Playing Tabla
-- 🏃 Exercising
-
----
-
-GitHub: GauravRaturi-97
+- ♟️ Chess
+- 🪘 Tabla
+- 🏃 Exercise
 
 <!--
 **GauravRaturi-97/GauravRaturi-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
